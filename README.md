@@ -1,17 +1,17 @@
-<h1 align="center">Hi , I'm SHISHIR GAUTAM</h1>
-<h3 align="center">A BACKEND DEVELOPER, LIVING IN NEPAL</h3>
+## Hi there! 👋
 
-- 🌱 I’m currently learning **django, Django REST framework**
+I'm **Shishir Gautam**, a passionate developer with a love for coding and creating innovative solutions. Let's connect and explore the world of technology together!
 
-- 👨‍💻 My portfolio website [shishirgautam0223.com.np](shishirgautam0223.com.np)
+## About Me
 
-- 📫 How to reach me **shishirgautam0223@gmail.com**
+I'm a software developer based in Nepal. I enjoy working on web development projects and data analysis. Although I don't currently work for a specific company, I'm always continuing my learning journey.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/shishirgtm32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shishirgtm32" height="30" width="40" /></a>
-<a href="https://instagram.com/shishirgtm32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shishirgtm32" height="30" width="40" /></a>
-</p>
+## Skills & Technologies
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+[![My Skills](https://skillicons.dev/icons?i=html,css,django,mysql,vscode&perline=8)](https://skillicons.dev)
+
+## Top Projects
+
+- [Ecommerce](https://github.com/ShishirGTM32/Ecommerce) - An ecommerce platform as a project donw with the helop of django framework.
+- [Portfolio](https://github.com/ShishirGTM32/Portfolio) - My personal portfolio website to showcase skills and my field.
+- [Data Analysis with Python](https://github.com/ShishirGTM32/Data-Analaysis-w-Python) - A repository for some data analysis projects. 
