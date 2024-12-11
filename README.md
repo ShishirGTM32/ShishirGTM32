@@ -4,7 +4,8 @@ I'm **Shishir Gautam**, a passionate developer with a love for coding.
 
 ## About Me
 
-I'm a back-end developer based in Nepal. I enjoy working on web development projects and data analysis. Although I don't currently work for a specific company, I'm always continuing my learning journey.
+I'm a back-end developer living in Nepal. I enjoy working on web development projects and data analysis.
+I like learning new things in an efficient way.
 
 ## Skills & Technologies
 
