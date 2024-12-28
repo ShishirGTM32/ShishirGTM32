@@ -13,7 +13,7 @@ I like learning new things in an efficient way.
 
 ## Top Projects
 
-- [Ecommerce](https://github.com/ShishirGTM32/Ecommerce) - An ecommerce platform as a project donw with the helop of django framework.
+- [Ecommerce](https://github.com/ShishirGTM32/WatchHouse) - An ecommerce platform as a project donw with the helop of django framework.
 - [Portfolio](https://github.com/ShishirGTM32/Portfolio) - My personal portfolio website to showcase my skills of HTML/CSS.
 - [Data Analysis with Python](https://github.com/ShishirGTM32/Data-Analaysis-w-Python) - A repository for some data analysis projects.
 - [To Do List](https://github.com/ShishirGTM32/ToDoList) - A web app for setting personal To Do List.
