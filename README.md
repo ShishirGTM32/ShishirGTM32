@@ -4,12 +4,16 @@ I'm **Shishir Gautam**, a passionate developer with a love for coding.
 
 ## About Me
 
-I'm a back-end developer living in Nepal. I enjoy working on web development projects and data analysis.
+I'm a python developer living in Nepal. I enjoy working on web development projects and data analysis.
 I like learning new things in an efficient way.
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,django,mysql,vscode&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,django,mysql,vscode,pytorch&perline=8)](https://skillicons.dev)
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="70">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="70">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50">
+
 
 ## Top Projects
 
@@ -17,3 +21,4 @@ I like learning new things in an efficient way.
 - [Portfolio](https://github.com/ShishirGTM32/Portfolio) - My personal portfolio website to showcase my skills of HTML/CSS.
 - [Data Analysis with Python](https://github.com/ShishirGTM32/Data-Analaysis-w-Python) - A repository for some data analysis projects.
 - [To Do List](https://github.com/ShishirGTM32/ToDoList) - A web app for setting personal To Do List.
+- [Pytorch-Practice](https://github.com/ShishirGTM32/Pytorch-Practice) - A repositary with learning projects made while doing the PyTorch
