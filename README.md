@@ -22,3 +22,5 @@ I like learning new things in an efficient way.
 - [Data Analysis with Python](https://github.com/ShishirGTM32/Data-Analaysis-w-Python) - A repository for some data analysis projects.
 - [To Do List](https://github.com/ShishirGTM32/ToDoList) - A web app for setting personal To Do List.
 - [Pytorch-Practice](https://github.com/ShishirGTM32/Pytorch-Practice) - A repositary with learning projects made while doing the PyTorch
+- [Sign Langauge Detection-ML COde](https://github.com/ShishirGTM32/SignLanguageDetection) - A repositary with caturing, training and testing model for the Sign Language Detection.
+- [SLD-Web](https://github.com/ShishirGTM32/SLD-Web) - A Repositary of the sign language detection and translation with integrating ML model with django for web functionality.
